@@ -9,7 +9,7 @@
 - [Docker desktop](https://docs.docker.com/desktop/). Desktop version for MAC and Windows to manage docker images and containers.
 
 ## Steps to install project
-1. Clone the repository in your computer: _git clone git@bitbucket.org:tks-dev/core.git_ .
+1. Clone the repository in your computer: _git clone git@github.com:salvadorcastro/docker-laravel_ .
 1. Create environment file: _./build_docker_env.sh_ .
 1. Build and run containers: _docker-compose up -d_ .
     1. Options:
